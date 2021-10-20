@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>web site</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/login.css"/>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="row">
+				<h2 style="text-align:center">Up and Walk</h2>
+
+				<div class="col">
+					<span>Username :</span>
+					<input id="username" type="text" name="username" placeholder="Your Username" />
+
+					<span>Password :</span>
+					<input id="password" type="password" name="password" placeholder="Your Password" />
+					
+					
+					<div class="btn-div">
+					<input style="width: 45%;float: left;" type="button" onclick="userLogin()" value="Log in">
+					<input style="width: 45%;float: right;" type="button" value="Register">
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<script type="text/javascript">
+			
+			function userLogin(){
+				location.href = "index.html";
+			}
+			
+		</script>
+	</body>
+
+	
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>User Center</title>
+		<link rel="stylesheet" href="css/usercenter.css"/>
+	</head>
+	<body>
+
+		<div class="container">
+
+			<div class="state left">
+				<div class="head_title">
+
+					<img src="img/person.png" />
+					<span>Rose</span>
+				</div>
+
+				<p style="padding-left: 10px;">You have already sit:</p>
+
+				<p style="font-size: 40px;text-align: center;margin-top: 0px;font-weight: bold;"><span id="hour">00</span>:<span id="minutes">00</span>:<span
+					 id="second">00</span></p>
+
+				<div class="option">
+
+					<p><span>History Duration</span>
+						<sapn style="float: right">03:24:00</sapn>
+					</p>
+					<p><span>The longest Duration</span><span style="float: right">08:54:00</span></p>
+					<p><span>Activity Duration</span><span style="float: right">00:24:00</span></p>
+				</div>
+
+				<div>
+
+					<div id="main" style="width: 100%;height:400px;"></div>
+
+				</div>
+			</div>
+
+			<div class="content left" onclick="back()">
+
+				<!-- <input style="float: right;margin-top: 20px;" type="button" value="返回" /> -->
+				<img style="float: right;margin-top: 20px;" src="./img/back.png" >
+
+			</div>
+
+		</div>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.7.0/dist/echarts.min.js"></script>
+		<script type="text/javascript" src="js/usercenter.js"></script>
+	</body>
+</html>

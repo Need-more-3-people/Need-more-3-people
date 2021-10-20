@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>User Center</title>
+		<link rel="stylesheet" href="css/index.css"/>
+	</head>
+	<body>
+		
+		<div class="container">
+			
+			<div class="state left">
+				<div class="head_title" onclick="gotoCenter()">
+					
+					<img src="img/person.png" />
+					<span>Rose</span>
+				</div>
+				
+				<p style="padding-left: 10px;">You have already sit:</p>
+				
+				<p style="font-size: 40px;text-align: center;margin-top: 0px;font-weight: bold;"><span id="hour">00</span>:<span id="minutes">00</span>:<span id="second">00</span></p>
+				
+				<div class="option">
+					
+					<input style="width: 45%;float: left;" type="button" id="calClock" onclick="timeOut()" value="Pause">
+					<input style="width: 45%;float: right;" type="button" onclick="exit()" value="Exit">
+					<input style="width: 100%;margin-top: 10px;" id="touchMe" type="button" onclick="touch()" value="Don't touch me">
+				</div>
+				
+				<div style="margin-top: 10px;">
+					<img style="width: 100%;" src="img/circle.png" />
+				</div>
+			</div>
+			
+			<div class="content left">
+				
+				<div class="row">
+					<div class="col">People Around</div>
+					<div class="col">Time</div>
+					<div class="col">Poke Poke</div>
+				</div>
+				<div class="row">
+					<div class="col"><span class="circle yellow"></span>Rose</div>
+					<div class="col">07:50:18</div>
+					<div class="col"><img class="point" id="poke1" src="./img/poke.png"/></div>
+				</div>
+				<div class="row">
+					<div class="col"><span class="circle" style="background-color: rgb(217,230,245);"></span>Lily</div>
+					<div class="col">05:20:08</div>
+					<div class="col"><img class="point" id="poke2" src="./img/pokedisable.png"/></div>
+				</div>
+				<div class="row">
+					<div class="col"><span class="circle" style="background-color: rgb(227,189,227);"></span>Rob</div>
+					<div class="col">02:50:44</div>
+					<div class="col"><img class="point" id="poke3" src="./img/poke.png"/></div>
+				</div>
+				<div class="row">
+					<div class="col"><span class="circle" style="background-color: rgb(227,245,217);"></span>Jin</div>
+					<div class="col">01:20:38</div>
+					<div class="col"><img class="point" id="poke4" src="./img/poke.png"/></div>
+				</div>
+				<div class="row">
+					<div class="col"><span class="circle" style="background-color: rgb(222,147,147);"></span>Anqi</div>
+					<div class="col">00:10:68</div>
+					<div class="col"><img class="point" id="poke5" src="./img/poke.png"/></div>
+				</div>
+				
+			</div>
+			
+		</div>
+		<script type="text/javascript" src="js/index.js"></script>
+	</body>
+</html>

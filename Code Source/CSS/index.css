@@ -1,0 +1,92 @@
+body{
+				background-color: rgb(255,255,255);
+			}
+			
+			.container{
+				width: 80%;
+				margin: 10% auto;
+				border: 1px solid black;
+				min-height: 500px;
+				overflow: hidden;
+			}
+			
+			.left{
+				float: left;
+			}
+			
+			.right{
+				float: right;
+			}
+			
+			.state{
+				border: 1px solid black;
+				width: 30%;
+				height: 100%;
+			}
+			
+			.content{
+				width: 65%;
+			}
+			
+			.head_title{
+				border-bottom: 1px solid black;
+			}
+			
+			.head_title img{
+				width: 50px;
+				margin-left: 10px;
+				margin-top: 5px;
+			}
+			
+			.head_title span{
+				position: absolute;
+				margin-top: 15px;
+				margin-left: 10px;
+				font-size: 20px;
+				font-weight: 500;
+			}
+			
+			.option{
+				overflow: hidden;
+				width: 90%;
+				margin: auto;
+			}
+			
+			
+			.option input{
+				border-radius: 10px;
+			}
+			
+			.col{
+				float: left;
+				width: 30%;
+				text-align: center;
+			}
+			
+			.col img{
+				width: 30px;
+				position: relative;
+				top: 10px;
+			}
+			
+			.row{
+				height: 50px;
+				line-height: 50px;
+				vertical-align: middle;
+				border-bottom: 1px solid black;
+				box-shadow: 0px 1px 0px 0px gray;
+			}
+			
+			.circle{
+				display: inline-block;
+				width: 20px;
+				height: 20px;
+				border: 1px solid black;
+				float: left;
+				margin: 10px 0px 0px 10px;
+				border-radius: 10px;
+			}
+			
+			.yellow{
+				background-color: yellow;
+			}

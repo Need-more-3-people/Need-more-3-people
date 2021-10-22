@@ -1,7 +1,7 @@
 # Need-more-3-people
 ![Poster for Need more 3 people](https://github.com/Need-more-3-people/Need-more-3-people/blob/main/Image%20for%20Testing%20and%20prototype/Poster1.png)
 
-**Introduction**
+#**Introduction**
 
 ## Background Research
   1. [Initial Background Research](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Background-Research#1-initial-background-research)

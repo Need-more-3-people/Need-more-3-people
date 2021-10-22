@@ -1,7 +1,7 @@
 # Need-more-3-people
 ![Poster for Need more 3 people](https://github.com/Need-more-3-people/Need-more-3-people/blob/main/Image%20for%20Testing%20and%20prototype/Poster1.png)
 
-#**Introduction**
+**Introduction**
 
 ## Background Research
   1. [Initial Background Research](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Background-Research#1-initial-background-research)
@@ -17,12 +17,12 @@
   1. [Proposal](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Proposal#proposal)
 
 ## Prototype Iterate
-  1. [Low Fidelity Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#1-low-fidelity-prototype)
-  2. [Evaluation 1](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#2-evaluation-1)
-  3. [Medium Fidelity Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#3-medium-fidelity-prototype)
-  4. [Evaluation 2](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#4-evaluation-2)  
-  5. [High Fidelity Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#5-high-fidelity-prototype)
-  6. [Evaluation 3](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Change#6-evaluation-3)
+  1. [Low Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)
+  2. [Evaluation 1](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)
+  3. [Medium Fidelity Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)
+  4. [Evaluation 2](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)  
+  5. [High Fidelity Prototype](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)
+  6. [Evaluation 3](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Prototype-Iterate)
 
 ## Promotional Materials
   1. [Poster](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Promotional-Materials)

@@ -1,14 +1,13 @@
 # Need-more-3-people
 ![Poster for Need more 3 people](https://github.com/Need-more-3-people/Need-more-3-people/blob/main/Image%20for%20Testing%20and%20prototype/Poster1.png)
 
-## Repository Guidlines
-> 1.Code Source file. It contains our all HTML CSS JavaScript code, and Arduino code.
+# Repository Guidlines
+> 1. Code Source file. It contains our all HTML CSS JavaScript code, and Arduino code.
+
 > 2. Image: This file contains our all pictures which used in Wiki. 
 
 # The Structure of Wiki:
-
-**Introduction**
-
+## **Introduction**
 >## Background Research
 >  1. [Initial Background Research](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Background-Research#1-initial-background-research)
 >  2. [Additional Background Research](https://github.com/Need-more-3-people/Need-more-3-people/wiki/Background-Research#2-additional-background-research)
